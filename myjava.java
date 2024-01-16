@@ -12,3 +12,5 @@ this is third day of java lines completed
 this is fourth lines of java completed
 this is fifth day of java completed:
 >>>>>>> Stashed changes
+this is 78 line in new branch 
+this is 79 th line in new branch
